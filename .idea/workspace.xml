@@ -4,522 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbed5b6d-8ea2-462d-b183-5d401ddaf57b" name="Changes" comment="Tugas1">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DPW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/Praktikum1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/green_button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/latihan20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Praktikum/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Tugas/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan1/Tugas/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/API Laravel.postman_collection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Controllers/MyController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Controllers/StudentController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Controllers/samplecontroller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Controllers/studentApiController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Models/Student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/sanctum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/migrations/2022_01_21_021132_create_students_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/migrations/2022_01_21_120700_create_students_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/views/base.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/views/beranda.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/views/student.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/views/studentEdit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/views/studentTambah.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan10 &amp; 11/webpack.mix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan12/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan12/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan12/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan12/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Praktikum/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Praktikum/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/dropdown/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/0c3c476d-35bf-4b3a-85aa-84d6f304c04f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/49796805-20-sided-20d-dice-line-art-icon-for-apps-and-websites-128x128-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/hashes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-596x397.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr-7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/mbr.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/profile-pic-material-cropped-min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/team2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/team3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/images/team4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/socicon/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/socicon/fonts/socicon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/socicon/fonts/socicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/socicon/fonts/socicon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/socicon/fonts/socicon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/socicon/fonts/socicon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/styles/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/theme/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons-bold/icons-bold.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons-bold/icons-bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons-bold/icons-bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons-bold/icons-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons-bold/icons-bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons/icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons/icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons/icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons/icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons/icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons2/icons2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons2/icons2.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons2/icons2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons2/icons2.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/assets/web/assets/icons2/icons2.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Praktikum/latihan1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Praktikum/latihan1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Praktikum/latihan2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Praktikum/latihan3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/dropdown/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/0c3c476d-35bf-4b3a-85aa-84d6f304c04f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/49796805-20-sided-20d-dice-line-art-icon-for-apps-and-websites-128x128-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/hashes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-596x397.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr-7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/mbr.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/profile-pic-material-cropped-min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/team2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/team3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/images/team4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/socicon/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/socicon/fonts/socicon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/socicon/fonts/socicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/socicon/fonts/socicon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/socicon/fonts/socicon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/socicon/fonts/socicon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/styles/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/theme/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons-bold/icons-bold.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons-bold/icons-bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons-bold/icons-bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons-bold/icons-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons-bold/icons-bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons/icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons/icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons/icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons/icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons/icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons2/icons2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons2/icons2.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons2/icons2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons2/icons2.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/assets/web/assets/icons2/icons2.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan3/Tugas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/create_message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/delete_data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/read_message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/session_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/session_read.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/simpan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/update_form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/upload_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/upload_process_data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan4/upload_view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan5/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan5/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan5/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/Form/create_message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/Form/delete_message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/Form/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/Form/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/Form/read_message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/Form/update_form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/session_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/session_read.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/upload_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan6/upload_view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/sanctum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan7/webpack.mix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/sanctum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan8/webpack.mix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Controllers/MyController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Controllers/StudentController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Controllers/samplecontroller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Models/Student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/sanctum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/migrations/2022_01_21_021132_create_students_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/views/StudentEdit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/views/StudentTambah.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/views/beranda.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/views/student.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/Pertemuan9/webpack.mix.js" afterDir="false" />
+    <list default="true" id="cbed5b6d-8ea2-462d-b183-5d401ddaf57b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/robots.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -532,6 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -540,6 +32,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="97dd179b-c31d-4fea-887f-6104ec43d578" />
+        <option name="url" value="https://github.com/raddox7/PDW_SE3A_19104027.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1zYVK9Su4bY5pvYasmTDfqgSlnc" />
@@ -554,13 +54,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Praktikum/Pertemuan2/Tugas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Praktikum/Pertemuan12/laravel" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.pixelperfect.heroku.settings.AppSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -570,6 +70,8 @@
       <recent name="D:\Documents\PHPStormStuff\PDW\Praktikum\Pertemuan2\Tugas\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\PHPStormStuff\PDW\Praktikum\Pertemuan12\laravel" />
+      <recent name="D:\Documents\PHPStormStuff\PDW\Praktikum\Pertemuan12" />
       <recent name="D:\Documents\PHPStormStuff\PDW\Praktikum\Pertemuan10 &amp; 11" />
       <recent name="D:\Documents\PHPStormStuff\PDW\Praktikum\Pertemuan2\Tugas" />
       <recent name="D:\Documents\PHPStormStuff\PDW\Praktikum\Pertemuan2\BAK" />
@@ -624,7 +126,8 @@
       <workItem from="1642900801167" duration="886000" />
       <workItem from="1642904406200" duration="11362000" />
       <workItem from="1642930532325" duration="2945000" />
-      <workItem from="1642936585992" duration="3037000" />
+      <workItem from="1642936585992" duration="5511000" />
+      <workItem from="1642943214612" duration="361000" />
     </task>
     <servers />
   </component>
@@ -644,6 +147,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Praktikum/Pertemuan12/" />
+    </ignored-roots>
     <MESSAGE value="Tugas1" />
     <option name="LAST_COMMIT_MESSAGE" value="Tugas1" />
   </component>
