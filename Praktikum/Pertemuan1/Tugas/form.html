@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Praktikum Pemrograman Web - Forms</title>
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="description" content="Praktikum DPW - Pertemuan 1: Pengenalan HTML">
+    <meta name="author" content="Satria Adi Nugraha">
+    <meta http-equiv="refresh" content="30">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="background-color: silver;">
+    <table align="center" style="background-color: #FFF; padding: 0.75em; border-radius: 10px;">
+        <tr>
+            <td colspan="3">
+                <h1 style="font-family: Poppins; font-weight: bold; text-align: center;">ZoneWar RPG Character Creator</h1>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td>
+                <input type="text" name="email" style="border:none; border-radius:3px; background-color:silver; padding-top: 0.75em; padding-bottom: 0.75em; padding-left: 10px; padding-right: 0.75em;"></input>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td>Player name</td>
+            <td>
+
+                <label>
+                    <input type="text" name="name"
+                           style="border:none; border-radius:3px; background-color:silver; padding: 0.75em 0.75em 0.75em 10px;"/>
+                </label>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td>Character name</td>
+            <td>
+                <input type="text" name="alamat" style="border:none; border-radius:3px; background-color:silver; padding-top: 0.75em; padding-bottom: 0.75em; padding-left: 10px; padding-right: 0.75em;"></input>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td>Gender</td>
+            <td>
+                <!-- membuat inputan untuk pengguna berupa radio button-->
+                <input type="radio" name="gender" value="F"> Female
+                <br/>
+                <input type="radio" name="gender" value="M"> Male
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td>Class</td>
+            <td>
+                <!-- membuat pilihan pengguna menggunakan drop-down -->
+                <select id="class" style="border:none; border-radius:3px; background-color:silver; padding-top: 0.75em; padding-bottom: 0.75em; padding-left: 10px; padding-right: 0.75em;">
+                    <option value="assassin">Assassin</option>
+                    <option value="fighter">Fighter</option>
+                    <option value="mage">Mage</option>
+                </select>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td>Avatar</td>
+            <td>
+                <input type="text" name="avatar" style="border:none; border-radius:3px; background-color:silver; padding-top: 0.75em; padding-bottom: 0.75em; padding-left: 10px; padding-right: 0.75em;"></input>
+                <!-- membuat inputan pengguna berupa button -->
+                <input type="submit" value="Browse ... " style="border:none; border-radius: 3px; padding: 10px; background-color: dodgerblue; color: #FFF;">
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <td>Bio</td>
+            <td>
+                <textarea id="comment" placeholder="Bio goes here..." rows="4" cols="50" style="border:none; border-radius:3px; background-color:silver; padding-top: 0.75em; padding-bottom: 0.75em; padding-left: 10px; padding-right: 0.75em;"></textarea>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+        <tr>
+            <!-- colspan : menggabungkan 3 kolom menjadi satu -->
+            <!-- align : menentukan tata letak paragraf -->
+            <td colspan="3" align="right">
+                <a href="#">
+                    <input type="submit" value="Submit" style="border:none; border-radius: 3px; padding: 10px; background-color: dodgerblue; color: #FFF;">
+                </a>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr></tr>
+        <tr></tr>
+    </table>
+</body>
+
+</html>

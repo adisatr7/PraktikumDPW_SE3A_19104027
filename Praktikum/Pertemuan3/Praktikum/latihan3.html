@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Belajar Javascript</title>
+</head>
+
+<body>
+    <!-- Contoh validasi email -->
+    <form name="test" onsubmit="checkemail(this.test2.value); return false">
+        <input type="text" size=20 name="test2">
+        <input type="submit" value="submit">
+    </form>
+    <script type="text/javascript">
+        function checkemail(email) {
+            if (email.indexOf("@") !== -1 && email.indexOf(".") !== -1)
+                alert("Are you sure?")
+            else
+                alert("Error: Email is invalid!!")
+        }
+    </script>
+
+    <!-- Contoh membuka window di javascript -->
+    <script>
+        function openWindow() {
+            window.open("http://www.google.com", "google", "width=400, height=300, toolbar=1")
+        }
+    </script>
+    <input type="button" onclick="openWindow()" value="Open">
+
+    <!-- Contoh menampilkan windows alert 1 -->
+    <script>
+        const x = window.confirm("Click 'OK'!")
+        if (x)
+            window.alert("Good boi! Now go to the next step!!")
+        else
+            window.alert("Het, you gotta click OK!!")
+    </script>
+
+    <!-- Contoh menampilkan windows alert 2 -->
+    <script>
+        const y = window.prompt("Please enter your name:")
+        window.alert(y)
+    </script>
+</body>

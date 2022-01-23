@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<head>
+    <!-- Menyisipkan file javascript ke dalam html -->
+    <script type="text/javascript" src="latihan2.js"></script>
+    <title>
+        Belajar Javascript (Praktikum 3)
+    </title>
+</head>
+
+<body>
+
+    <!-- Contoh Event Handler: onclick 1 -->
+    <script>
+        function inform() {
+            alert("To the next step!!")
+        }
+    </script>
+    <form>
+        <input type="button" name="test" value="Click" onclick="inform()">
+    </form>
+
+    <!-- Contoh Event Handler: onclick 2 -->
+    <form name="go">
+        <input type="radio" name="C1" onclick="document.bgColor='lightblue'">
+        <input type="radio" name="C1" onclick="document.bgColor='lightyellow'">
+        <input type="radio" name="C1" onclick="document.bgColor='lightgreen'">
+    </form>
+
+    <!-- Contoh pesan teks -->
+    <script>
+        var message = "Welcome to my site"
+        document.write(message.toUpperCase().bold())
+    </script>
+</body>
