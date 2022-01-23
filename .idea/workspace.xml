@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbed5b6d-8ea2-462d-b183-5d401ddaf57b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/Pertemuan12/robots.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="cbed5b6d-8ea2-462d-b183-5d401ddaf57b" name="Changes" comment="Last-minute edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,8 +120,16 @@
       <workItem from="1642904406200" duration="11362000" />
       <workItem from="1642930532325" duration="2945000" />
       <workItem from="1642936585992" duration="5511000" />
-      <workItem from="1642943214612" duration="361000" />
+      <workItem from="1642943214612" duration="453000" />
     </task>
+    <task id="LOCAL-00001" summary="Last-minute edits">
+      <created>1642943678327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642943678327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +152,8 @@
       <path value="$PROJECT_DIR$/Praktikum/Pertemuan12/" />
     </ignored-roots>
     <MESSAGE value="Tugas1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tugas1" />
+    <MESSAGE value="Last-minute edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last-minute edits" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
