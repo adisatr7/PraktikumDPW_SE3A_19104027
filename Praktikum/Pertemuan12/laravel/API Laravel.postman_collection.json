@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Get Student Data",
+			"name": "Get Data Mahasiswa",
 			"request": {
 				"method": "GET",
 				"header": []
@@ -14,7 +14,7 @@
 			"response": []
 		},
 		{
-			"name": "Get Student Data By Id",
+			"name": "Get Data Mahasiswa By Id",
 			"request": {
 				"method": "GET",
 				"header": []
@@ -22,7 +22,7 @@
 			"response": []
 		},
 		{
-			"name": "Get Student Data By NIM",
+			"name": "Get Data Mahasiswa By NIM",
 			"request": {
 				"method": "GET",
 				"header": []
@@ -30,7 +30,7 @@
 			"response": []
 		},
 		{
-			"name": "Add Student Data",
+			"name": "Tambah Data Mahasiswa",
 			"request": {
 				"method": "GET",
 				"header": []

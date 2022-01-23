@@ -9,13 +9,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>Add Student</h1>
-        <form action="/student/create" method="post">
+        <h1>Tambah Mahasiswa</h1>
+        <form action="/mahasiswa/create" method="post">
             @csrf
-
+            
             <label for="nim">NIM</label>
             <input type="text" name="nim" id="nim" required>
-
+       
             <br>
 
             <label for="name">Nama</label>

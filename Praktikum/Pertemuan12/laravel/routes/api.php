@@ -20,15 +20,15 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 
 // Menampilkan data siswa melalui API
-Route::get('/student', [studentApiController::class, 'index']);
-Route::get('/student/{id}', [studentApiController::class, 'getById']);
-Route::get('/student/by_nim/{nim}', [studentApiController::class, 'getByNim']);
+Route::get('/mahasiswa', [studentApiController::class, 'index']);
+Route::get('/mahasiswa/{id}', [studentApiController::class, 'getById']);
+Route::get('/mahasiswa/by_nim/{nim}', [studentApiController::class, 'getByNim']);
 
 // Menambah data siswa melalui API
-Route::post('/student', [studentApiController::class, 'save']);
+Route::post('/mahasiswa', [studentApiController::class, 'save']);
 
 // Mengubah data siswa melalui API
-Route::put('/student/{id}', [studentApiController::class, 'update']);
+Route::put('/mahasiswa/{id}', [studentApiController::class, 'update']);
 
 // Menghapus data siswa melalui API
-Route::delete('/student/{id}', [studentApiController::class, 'delete']);
+Route::delete('/mahasiswa/{id}', [studentApiController::class, 'delete']);

@@ -17,9 +17,9 @@
             </div>
         @endif
 
-        <h4>Student Data</h4>
+        <h4>Data Mahasiswa</h4>
 
-        <a href="{{ url('/student/create') }}" class="btn btn-success">Add Data</a>
+        <a href="{{ url('/mahasiswa/create') }}" class="btn btn-success">Tambah Data</a>
         <br>
 
         <hr>
@@ -77,8 +77,8 @@
                         {{$s->address}}
                     </td>
                     <td>
-                        <a href="{{ url('/student/'.$s->id.'/edit') }}" class="btn btn-warning">Edit</a>
-                        <form action="{{ url('/student/hapus/'.$s->id) }}" method="post" class="d-inline">
+                        <a href="{{ url('/mahasiswa/'.$s->id.'/edit') }}" class="btn btn-warning">Edit</a>
+                        <form action="{{ url('/mahasiswa/hapus/'.$s->id) }}" method="post" class="d-inline">
                             @method('delete')
                             @csrf
                             <button type="submit" class="btn btn-danger">Delete</button>
@@ -147,8 +147,8 @@
                             {{$s->address}}
                         </td>
                         <td>
-                            <a href="{{ url('/student/'.$s->id.'/edit') }}" class="btn btn-warning">Edit</a>
-                            <form action="{{ url('/student/hapus/'.$s->id) }}" method="post" class="d-inline">
+                            <a href="{{ url('/mahasiswa/'.$s->id.'/edit') }}" class="btn btn-warning">Edit</a>
+                            <form action="{{ url('/mahasiswa/hapus/'.$s->id) }}" method="post" class="d-inline">
                                 @method('delete')
                                 @csrf
                                 <button type="submit" class="btn btn-danger">Delete</button>

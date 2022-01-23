@@ -9,13 +9,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>Edit Student</h1>
-        <form action="/student/{{$student->id}}/edit" method="post">
+        <h1>Edit Mahasiswa</h1>
+        <form action="/mahasiswa/{{$student->id}}/edit" method="post">
             @csrf
             @method('put')
             <label for="nim">NIM</label>
             <input value="{{$student->nim}}" type="text" name="nim" id="nim" required>
-
+       
             <br>
 
             <label for="name">Nama</label>
